@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hemsidaonline/static/css/main.1779617f.chunk.css",
-    "main.js": "/hemsidaonline/static/js/main.10e2d990.chunk.js",
-    "main.js.map": "/hemsidaonline/static/js/main.10e2d990.chunk.js.map",
-    "runtime~main.js": "/hemsidaonline/static/js/runtime~main.1355e8b1.js",
-    "runtime~main.js.map": "/hemsidaonline/static/js/runtime~main.1355e8b1.js.map",
-    "static/js/2.5d4d8e89.chunk.js": "/hemsidaonline/static/js/2.5d4d8e89.chunk.js",
-    "static/js/2.5d4d8e89.chunk.js.map": "/hemsidaonline/static/js/2.5d4d8e89.chunk.js.map",
-    "index.html": "/hemsidaonline/index.html",
-    "precache-manifest.9341b0176ee6ad0be5d6267e7d70fcd9.js": "/hemsidaonline/precache-manifest.9341b0176ee6ad0be5d6267e7d70fcd9.js",
-    "service-worker.js": "/hemsidaonline/service-worker.js",
-    "static/css/main.1779617f.chunk.css.map": "/hemsidaonline/static/css/main.1779617f.chunk.css.map"
+    "main.css": "/static/css/main.1779617f.chunk.css",
+    "main.js": "/static/js/main.6db13a34.chunk.js",
+    "main.js.map": "/static/js/main.6db13a34.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.b4e066f6.js",
+    "runtime~main.js.map": "/static/js/runtime~main.b4e066f6.js.map",
+    "static/js/2.5d4d8e89.chunk.js": "/static/js/2.5d4d8e89.chunk.js",
+    "static/js/2.5d4d8e89.chunk.js.map": "/static/js/2.5d4d8e89.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1a6fd0304a94db319a50c6906ef632f8.js": "/precache-manifest.1a6fd0304a94db319a50c6906ef632f8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1779617f.chunk.css.map": "/static/css/main.1779617f.chunk.css.map"
   }
 }
