@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/hemsidaonline/static/css/main.2cce8147.chunk.css",
-    "main.js": "/hemsidaonline/static/js/main.8edb7b7c.chunk.js",
-    "main.js.map": "/hemsidaonline/static/js/main.8edb7b7c.chunk.js.map",
+    "main.css": "/hemsidaonline/static/css/main.1779617f.chunk.css",
+    "main.js": "/hemsidaonline/static/js/main.10e2d990.chunk.js",
+    "main.js.map": "/hemsidaonline/static/js/main.10e2d990.chunk.js.map",
     "runtime~main.js": "/hemsidaonline/static/js/runtime~main.1355e8b1.js",
     "runtime~main.js.map": "/hemsidaonline/static/js/runtime~main.1355e8b1.js.map",
-    "static/js/2.e27ae958.chunk.js": "/hemsidaonline/static/js/2.e27ae958.chunk.js",
-    "static/js/2.e27ae958.chunk.js.map": "/hemsidaonline/static/js/2.e27ae958.chunk.js.map",
+    "static/js/2.5d4d8e89.chunk.js": "/hemsidaonline/static/js/2.5d4d8e89.chunk.js",
+    "static/js/2.5d4d8e89.chunk.js.map": "/hemsidaonline/static/js/2.5d4d8e89.chunk.js.map",
     "index.html": "/hemsidaonline/index.html",
-    "precache-manifest.04e112e8af434b89191537a8cd85d408.js": "/hemsidaonline/precache-manifest.04e112e8af434b89191537a8cd85d408.js",
+    "precache-manifest.69227a19ba4cc4a62e034c3c61a96b5a.js": "/hemsidaonline/precache-manifest.69227a19ba4cc4a62e034c3c61a96b5a.js",
     "service-worker.js": "/hemsidaonline/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/hemsidaonline/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/hemsidaonline/static/media/logo.5d5d9eef.svg"
+    "static/css/main.1779617f.chunk.css.map": "/hemsidaonline/static/css/main.1779617f.chunk.css.map"
   }
 }
